@@ -48,31 +48,22 @@ Reconstruction-based anomaly detection using recurrent neural networks and autoe
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### RISC-V GEMM
+### PhD project
 
-[**RVV and SpacemiT IME Microkernels**](https://github.com/BabarHussain786/riscv-gemm-optimization)
+[**RVV and SpacemiT IME GEMM Microkernels**](https://github.com/BabarHussain786/riscv-gemm-optimization)
 
 INT8 kernels, heterogeneous execution, benchmark campaigns, datasets, and validation workflows.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### Loop optimization
-
-[**RVV Loop Interchange Experiments**](https://github.com/BabarHussain786/LoopInterchange-RISC-V-RVV)
-
-Loop-ordering and autovectorization experiments for matrix multiplication.
-
-</td>
-<td width="33%" valign="top">
-
-### Applied ML
+### Master's project
 
 [**5G Vehicular Anomaly Detection**](https://github.com/BabarHussain786/5G-Vehicular-Anomaly-Detection)
 
-Earlier applied machine-learning research and anomaly-detection experiments.
+Deep-learning experiments for anomaly detection in vehicular and industrial data.
 
 </td>
 </tr>

@@ -58,9 +58,9 @@ INT8 kernels, heterogeneous execution, benchmark campaigns, datasets, and valida
 
 ### Master's project
 
-[**5G Vehicular Anomaly Detection**](https://github.com/BabarHussain786/5G-Vehicular-Anomaly-Detection)
+[**Industrial Anomaly Detection with Deep Learning Autoencoders**](https://github.com/BabarHussain786/IIoT-Guard-for-Detecting-Hidden-Anomalies-with-AI-Driven-Autoencoders)
 
-Deep-learning experiments for anomaly detection in vehicular and industrial data.
+LSTM, GRU, and SimpleRNN autoencoders for multivariate industrial vibration anomaly detection.
 
 </td>
 </tr>

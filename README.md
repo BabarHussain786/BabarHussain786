@@ -74,22 +74,13 @@ LSTM, GRU, and SimpleRNN autoencoders for multivariate industrial vibration anom
 
 ## Selected publications
 
-Selected publications and author records are listed below. See the [Google Scholar profile](https://scholar.google.com/citations?user=DgTE3QMAAAAJ) for the complete and current record.
+The [Google Scholar profile](https://scholar.google.com/citations?user=DgTE3QMAAAAJ) contains the complete and current publication record.
 
-1. [**An Intelligent Hybrid LSTM–XGBoost Framework for Time-Series Energy Demand Forecasting in Smart Electrical Power Systems Using SHAP-Based Feature Optimization**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:0N-VGjzr574C)  
-   *Najam Uddin Sohu, Rameez Akbar Talani, Babar Hussain, Kiran Raheel, Zafar Ullah Khan.* Spectrum of Engineering Sciences, 4(5), 2711–2739, 2026.
-
-2. [**Deep Generative Artificial Intelligence Models for Real-Time Adversarial Attack Identification, Predictive Threat Intelligence, and Self-Adaptive Cybersecurity Defense Mechanisms for Resilient Smart Grid Cyber-Physical Systems**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:FPJr55Dyh1AC)  
-   *Babar Hussain, Sufyan Muhammad Khan, Muhammad Khurram Zahur Bajwa, Muhammad Junaid.* Journal for Current Sign, 4(2), 1214–1242, 2026.
-
-3. [**Feature Selection Optimization Using Hybrid Genetic Algorithm and Recursive Feature Elimination for High-Dimensional Data**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:edDO8Oi4QzsC)  
-   *Muhammad Khawaja Hassan Nizami, Babar Hussain, Abdul Basit Iqbal, Ajab Khan.* 2026.
-
-4. [**Image Compression in System Through Parallel & Sequential Execution**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:SpbeaW3--B0C)  
-   *Babar Hussain.* ISSN (online): 2582-7138, 3(4), 165–170, 2022.
-
-5. [**Measuring the Moderating Effect of Job Requirement in 5AS Model of Vaccine Uptake Among Journalists in Karachi, Pakistan**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:i2xiXl-TujoC)  
-   *Sana Shahid, Sardar Ahmed Nazish, Babar Hussain, Abdul Saboor.* Webology, 18(6), 2021.
+- [An Intelligent Hybrid LSTM–XGBoost Framework for Time-Series Energy Demand Forecasting](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:0N-VGjzr574C) · 2026
+- [Deep Generative Artificial Intelligence Models for Real-Time Adversarial Attack Identification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:FPJr55Dyh1AC) · 2026
+- [Feature Selection Optimization Using Hybrid Genetic Algorithm and Recursive Feature Elimination](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:edDO8Oi4QzsC) · 2026
+- [Image Compression in System Through Parallel & Sequential Execution](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:SpbeaW3--B0C) · 2022
+- [Measuring the Moderating Effect of Job Requirement in 5AS Model of Vaccine Uptake Among Journalists](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:i2xiXl-TujoC) · 2021
 
 ## Technical focus
 

@@ -66,9 +66,15 @@ LSTM, GRU, and SimpleRNN autoencoders for multivariate industrial vibration anom
 </tr>
 </table>
 
-## Publications
+## Research outputs
 
-The following five records are currently listed on my public [Google Scholar profile](https://scholar.google.com/citations?user=DgTE3QMAAAAJ).
+- [PhD paper workflow and K1 reproducibility assets](https://github.com/BabarHussain786/riscv-gemm-optimization/tree/main/microkernels)
+- [Master's thesis code and readable document](https://github.com/BabarHussain786/IIoT-Guard-for-Detecting-Hidden-Anomalies-with-AI-Driven-Autoencoders)
+- [Loop-interchange and manual RVV benchmark suite](https://github.com/BabarHussain786/LoopInterchange-RISC-V-RVV)
+
+## Selected publications
+
+Selected publications and author records are listed below. See the [Google Scholar profile](https://scholar.google.com/citations?user=DgTE3QMAAAAJ) for the complete and current record.
 
 1. [**An Intelligent Hybrid LSTM–XGBoost Framework for Time-Series Energy Demand Forecasting in Smart Electrical Power Systems Using SHAP-Based Feature Optimization**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DgTE3QMAAAAJ&citation_for_view=DgTE3QMAAAAJ:0N-VGjzr574C)  
    *Najam Uddin Sohu, Rameez Akbar Talani, Babar Hussain, Kiran Raheel, Zafar Ullah Khan.* Spectrum of Engineering Sciences, 4(5), 2711–2739, 2026.

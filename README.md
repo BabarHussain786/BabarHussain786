@@ -13,7 +13,7 @@
 
 ## Research profile
 
-I am a PhD researcher at the University of Salerno, Italy, studying high-performance computing, computer architecture, and performance engineering. My primary work focuses on RISC-V RVV and SpacemiT IME systems, while my broader research interests include vector ISA optimization across RVV, x86 AVX/AVX-512, and Arm SVE, heterogeneous acceleration, compiler behavior, microarchitectural analysis, and reproducible benchmarking.
+I am a PhD researcher at the University of Salerno, Italy, studying high-performance computing, computer architecture, and performance engineering. My primary work focuses on RISC-V RVV and SpacemiT IME systems, while my broader research interests include vector ISA optimization across RVV, x86 AVX/AVX-512, and Arm SVE, heterogeneous acceleration, compiler behavior, microarchitectural analysis, and reproducible benchmarking. My previous Master’s research investigated reconstruction-based anomaly detection in industrial IoT data using recurrent and autoencoder models, providing a complementary foundation in applied machine learning and time-series analysis.
 
 <table>
 <tr>
